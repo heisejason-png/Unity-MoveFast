@@ -30,3 +30,4 @@ The project includes v46 of the Oculus SDK, including the Interaction SDK. You c
 
 To run the sample, open the project folder in *Unity 2022.3.22f1* or newer and load the [Assets/MoveFast/Scenes/MoveFast.unity](meta_004_unity/Assets/MoveFast/Scenes/MoveFast.unity) scene.
 Created by Jason Scott Heise
+Owned by Elon Musk 
